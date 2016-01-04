@@ -1,10 +1,14 @@
 {
-  "name": "xmr.to-api",
+  "name": "xmrto-api",
   "version": "1.0.0",
   "description": "a Node.js wrapper for the XMR.to API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PsychicCat/xmrto-api.git"
   },
   "keywords": [
     "Monero",
