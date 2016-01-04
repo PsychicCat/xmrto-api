@@ -1,0 +1,25 @@
+{
+  "name": "xmr.to-api",
+  "version": "1.0.0",
+  "description": "a Node.js wrapper for the XMR.to API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Monero",
+    "XMR",
+    "XMR.to",
+    "Shapeshift.io",
+    "Poloniex",
+    "DASH",
+    "cryptocurrency"
+  ],
+  "author": "Brendan Telzrow",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "promise-object": "^0.1.5",
+    "request-promise": "^1.0.2"
+  }
+}
